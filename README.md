@@ -10,4 +10,4 @@ Wechat Official Account:
 
 <img width="330px"  src="https://anotherbug.com/assets/images/wechat.png">
 
-![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://github.com/mousepotato/mousepotato/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
